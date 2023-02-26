@@ -24,9 +24,9 @@ Following functionalities are completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/BhusalC/Parstagram_I/blob/main/partI.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='https://github.com/bhusalc-bipin/Parstagram/blob/main/partI.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
-<img src='https://github.com/BhusalC/Parstagram_I/blob/main/parstagram_II_demo.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='https://github.com/bhusalc-bipin/Parstagram/blob/main/parstagram_II_demo.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 
 
